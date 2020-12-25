@@ -51,7 +51,7 @@ module.exports = {
          * The full URL of the WordPress site's GraphQL API.
          * Example : 'https://www.example-site.com/graphql'
          */
-        url: `http://bike.test/graphql`,
+        url: `http://anketa.anketa1.dx.am/graphql`,
       },
     },
     // highlight-end
@@ -74,7 +74,7 @@ module.exports = {
       options: {
         name: `gatsby-starter-default`,
         short_name: `starter`,
-        start_url: `bike.test/graphql`,
+        start_url: `anketa.anketa1.dx.am/graphql`,
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
