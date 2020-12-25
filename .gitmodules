@@ -1,0 +1,3 @@
+[submodule "wordpress-tutorial-site"]
+	path = wordpress-tutorial-site
+	url = https://github.com/gegeeem/wordpress-tutorial-site
